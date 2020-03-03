@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">pcdealsexample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="network_error_message">Please check your network connection and try again.</string>
+    <string name="rupiya">\u20B9</string>
+    <string name="bullet_circular">\u25CF</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="alternate_mobile_number">Alternate Mobile Number</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="company_name">Company Name</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="pincode">pincode</string>
+    <string name="gst_no">GST No.</string>
+    <string name="register">Register</string>
+    <string name="wallet">Wallet</string>
+    <string name="credit_wallet">Credit Wallet</string>
+</resources>
